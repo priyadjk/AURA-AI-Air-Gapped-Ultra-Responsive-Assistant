@@ -1,0 +1,9 @@
+onnxruntime
+onnxruntime-genai
+streamlit
+chromadb
+sentence-transformers
+pypdf
+librosa
+soundfile
+numpy
